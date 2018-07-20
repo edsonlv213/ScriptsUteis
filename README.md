@@ -1,2 +1,2 @@
 # ScriptsUteis
-Scripts auxiliares
+Scripts auxiliares - para testar o uso do GitHub
